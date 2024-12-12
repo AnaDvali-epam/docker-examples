@@ -13,7 +13,7 @@ Write-Host "  6. Run docker compose up command`n" -ForegroundColor DarkCyan
 
 Write-Host "`n`n1. Stop all containers..." -ForegroundColor Cyan
 docker container stop $(docker container ls -q --filter name=docker-examples*);
-docker-compose stop; docker-compose down
+docker compose stop; docker compose down
 
 Write-Host "`n`n2. Docker Prune" -ForegroundColor Cyan
 docker system prune
@@ -47,15 +47,15 @@ Pop-Location
 
 if ($XM1 -ieq 'XM1') {
     Write-Host "Start Up script for XM1......" -ForegroundColor Cyan
-    docker-compose -f docker-compose.xm1.yml -f docker-compose.xm1.override.yml up -d
+    docker compose -f docker-compose.xm1.yml -f docker-compose.xm1.override.yml up -d
 }
 elseif ($XM1 -ieq 'XP1') {
     Write-Host "Start Up script for XP1......" -ForegroundColor Cyan
-    docker-compose -f docker-compose.xp1.yml -f docker-compose.xp1.override.yml up -d
+    docker compose -f docker-compose.xp1.yml -f docker-compose.xp1.override.yml up -d
 }
 else {
     Write-Host "Start Up script for XP0......" -ForegroundColor Cyan
-    docker-compose up -d
+    docker compose up -d
 }
 
 Write-Host "***Setup completed successfully***" -ForegroundColor Green
