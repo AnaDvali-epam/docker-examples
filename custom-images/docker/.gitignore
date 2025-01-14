@@ -2,6 +2,8 @@
 !/data/cm/.gitkeep
 /data/cd/*
 !/data/cd/.gitkeep
+/data/devicedetection/*
+!/data/devicedetection/.gitkeep
 /data/mssql/*
 !/data/mssql/.gitkeep
 /data/solr/*

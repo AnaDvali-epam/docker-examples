@@ -1,0 +1,48 @@
+﻿---
+ID: "cb6a91d9-6f9c-4292-9c8a-b21e2858f99d"
+Parent: "bb05d7c0-bc59-46d1-b04b-424f16a324be"
+Template: "7ed3f211-4160-468d-9070-89229cb9fec1"
+Path: /sitecore/content/JssApp/Home/Carousel/CarouselSlide2
+SharedFields:
+- ID: "7a23e5d1-7404-4df4-8c52-51fb3fe33ff3"
+  Hint: SharedText
+  Value: Shared Text
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250113T133437Z
+    - ID: "2b72e671-f573-468e-ae2f-32b923776aa5"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{D00707F4-16FE-4266-BE83-7C2BC88A7DBD}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "78a13b3d-c97b-4d22-b91f-e2ffb57aabb1"
+      Hint: SlideDescription
+      Value: Slide 2 Description
+    - ID: "8acbd13b-0859-438f-8664-7068589c9cc6"
+      Hint: SlideHeading
+      Value: Slide 2 heading
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9247e946-c06d-4620-849b-9608133ab205"
+    - ID: "a455fc15-af17-4fcf-beba-31005108c37b"
+      Hint: FallbackEnabledText
+      Value: Fallback Enabled Text
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250113T144901Z

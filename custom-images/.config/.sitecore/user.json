@@ -1,0 +1,17 @@
+{
+  "endpoints": {
+    "default": {
+      "allowWrite": true,
+      "host": "https://cm.dockerexamples.localhost//",
+      "authority": "https://id.dockerexamples.localhost//",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk1OEZEMDFDNjAxMDlGNjdFRUY2OTlEN0JERDdEOUUzNDgxODM3NzhSUzI1NiIsIng1dCI6ImxZX1FIR0FRbjJmdTlwblh2ZGZaNDBnWU4zZyIsInR5cCI6ImF0K2p3dCJ9.eyJpc3MiOiJodHRwczovL2lkLmRvY2tlcmV4YW1wbGVzLmxvY2FsaG9zdCIsIm5iZiI6MTczNjg0MjUzMCwiaWF0IjoxNzM2ODQyNTMwLCJleHAiOjE3MzY4NDYxMzAsImF1ZCI6WyJzaXRlY29yZS5wcm9maWxlLmFwaSIsImh0dHBzOi8vaWQuZG9ja2VyZXhhbXBsZXMubG9jYWxob3N0L3Jlc291cmNlcyJdLCJzY29wZSI6WyJzaXRlY29yZS5wcm9maWxlLmFwaSIsIm9mZmxpbmVfYWNjZXNzIl0sImFtciI6WyJwd2QiXSwiY2xpZW50X2lkIjoiRGV2aWNlIiwic3ViIjoiODY0NWEzOWJhYzZhNDJlZGJhZjE4NDVmNDQ2NWU2YTkiLCJhdXRoX3RpbWUiOjE3MzY4NDIyNzEsImlkcCI6ImxvY2FsIiwibmFtZSI6InNpdGVjb3JlXFxBZG1pbiIsImVtYWlsIjoiIiwiaHR0cDovL3d3dy5zaXRlY29yZS5uZXQvaWRlbnRpdHkvY2xhaW1zL2lzQWRtaW4iOiJUcnVlIiwic2lkIjoiRjExNDJDRDc0NDU4RTVFMjI5MTE5Mzg1RDk2ODU4MEUiLCJqdGkiOiI2RjAwNDA4NzZEMDM2MTBCRjlCRUMxN0REODcwMTZGNyJ9.y98eez5fjf2IQqJ9pglR6s2vQ0eoD-zNH3EFTjSXk6PmSKlCbR72HgTuKbMtIVTSUplCPC3Owvs_3OrCbocRwD1s1WUeEnvlfEBzR2PEpHI9d3oEwxKEcJ-828h1x0A5kHfqwyqEf3hbNFsjmzXXHHBwFQFIGi5Qa9KerCUgATj4rGdoccOsW6WiZtk1RUOfBVbUOE8CiKDUneK9MmetwvfAFhDhCRychYTTdZFMNJwjDcSLLxpZA84mlvT6g8RVh_gQtUI4wtq9lxj318RiBCJQ6FFKKUQsHpLynzCyhIT6nYbb2hfNifKRaSYpE7TuhJKWhpptIOd1kKi8SdDa9Q",
+      "refreshToken": "9992D74FFC9EF6A8359D810A3859E3F889A298B697221035EE13EEEB8067259D-1",
+      "expiresIn": 3600,
+      "lastUpdated": "2025-01-14T08:15:30.1430471Z",
+      "clientId": "Device",
+      "variables": {}
+    }
+  },
+  "$schema": "./schemas/UserConfiguration.schema.json",
+  "defaultEndpoint": "default"
+}

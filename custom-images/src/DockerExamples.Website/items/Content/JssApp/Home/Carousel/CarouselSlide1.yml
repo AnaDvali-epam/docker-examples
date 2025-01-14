@@ -1,0 +1,121 @@
+﻿---
+ID: "69217492-ffe0-4293-b3ad-58f2d178a2b9"
+Parent: "bb05d7c0-bc59-46d1-b04b-424f16a324be"
+Template: "7ed3f211-4160-468d-9070-89229cb9fec1"
+Path: /sitecore/content/JssApp/Home/Carousel/CarouselSlide1
+SharedFields:
+- ID: "7a23e5d1-7404-4df4-8c52-51fb3fe33ff3"
+  Hint: SharedText
+  Value: Shared Text
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250113T144323Z
+    - ID: "2b72e671-f573-468e-ae2f-32b923776aa5"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{F0C7A3E8-4D25-4BCF-8818-B0D56A2694B5}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "78a13b3d-c97b-4d22-b91f-e2ffb57aabb1"
+      Hint: SlideDescription
+      Value: Beschreibung von Folie 1
+    - ID: "8acbd13b-0859-438f-8664-7068589c9cc6"
+      Hint: SlideHeading
+      Value: Überschrift von Folie 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8408010f-f39f-45ae-8627-23bcff456985"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250113T144413Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250113T133426Z
+    - ID: "2b72e671-f573-468e-ae2f-32b923776aa5"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{F0C7A3E8-4D25-4BCF-8818-B0D56A2694B5}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "78a13b3d-c97b-4d22-b91f-e2ffb57aabb1"
+      Hint: SlideDescription
+      Value: Slide 1 Description
+    - ID: "8acbd13b-0859-438f-8664-7068589c9cc6"
+      Hint: SlideHeading
+      Value: Slide 1 heading
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "739ded30-a9a6-41d8-97dd-b04c8ea75965"
+    - ID: "a455fc15-af17-4fcf-beba-31005108c37b"
+      Hint: FallbackEnabledText
+      Value: Fallback Enabled Text
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250113T144248Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250113T144423Z
+    - ID: "2b72e671-f573-468e-ae2f-32b923776aa5"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{F0C7A3E8-4D25-4BCF-8818-B0D56A2694B5}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "78a13b3d-c97b-4d22-b91f-e2ffb57aabb1"
+      Hint: SlideDescription
+      Value: Slide 1 Description
+    - ID: "8acbd13b-0859-438f-8664-7068589c9cc6"
+      Hint: SlideHeading
+      Value: Slide 1 Heading 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5ae6918-c9d0-438d-a20f-f506f7e1352d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250113T144803Z

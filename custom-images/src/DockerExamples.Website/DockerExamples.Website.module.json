@@ -1,0 +1,20 @@
+{
+    "namespace": "DockerExamples.Website",
+    "description": "Content serialization example",
+    "items": {
+        "includes": [
+            {
+                "name": "Content",
+                "path": "/sitecore/content/JssApp"
+            },
+            {
+                "name": "Templates",
+                "path": "/sitecore/templates/User Defined/Carousel"
+            },
+            {
+                "name": "Renderings",
+                "path": "/sitecore/layout/Renderings/Project/Carousel"
+            }
+        ]
+    }
+}

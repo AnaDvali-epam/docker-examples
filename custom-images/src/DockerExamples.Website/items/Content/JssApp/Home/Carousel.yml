@@ -1,0 +1,96 @@
+﻿---
+ID: "bb05d7c0-bc59-46d1-b04b-424f16a324be"
+Parent: "9f1d607e-292e-4d1c-bccb-59ac724bddb8"
+Template: "af55c956-c1bf-47df-8b36-93858a332e84"
+Path: /sitecore/content/JssApp/Home/Carousel
+Languages:
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "039792d0-5ed9-43b0-bc51-1beb9aa2d896"
+      Hint: CarouselSlides
+      Value: |
+        {69217492-FFE0-4293-B3AD-58F2D178A2B9}
+        {CB6A91D9-6F9C-4292-9C8A-B21E2858F99D}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250113T150555Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "530ef176-814e-428c-9f37-471c93342f72"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250114T071902Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "039792d0-5ed9-43b0-bc51-1beb9aa2d896"
+      Hint: CarouselSlides
+      Value: |
+        {69217492-FFE0-4293-B3AD-58F2D178A2B9}
+        {CB6A91D9-6F9C-4292-9C8A-B21E2858F99D}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250113T133416Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e148034-c4a8-46a2-bdfb-5b9736fbd234"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250113T133932Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "039792d0-5ed9-43b0-bc51-1beb9aa2d896"
+      Hint: CarouselSlides
+      Value: |
+        {69217492-FFE0-4293-B3AD-58F2D178A2B9}
+        {CB6A91D9-6F9C-4292-9C8A-B21E2858F99D}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250113T150551Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "57ddfa87-b6c5-4b91-bdb9-96d20bd0d79c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250114T071851Z

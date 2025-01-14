@@ -1,0 +1,46 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Users\ana_dvali\Documents\sitecore\LEARN\docker-examples\custom-images\src\DockerExamples.Website\items\Content\JssApp.yml
+ID: "bcfab2be-8981-4135-9534-844741cf3c12"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "061cba15-5474-4b91-8a06-17903b102b82"
+Path: /sitecore/content/JssApp
+Signature: eQNuteO2k2atLGkBU6QZxAF44IIAZtBdb/vIS9X2uxc=
+Modified: 638724393676883429
+---
+File: |
+  C:\Users\ana_dvali\Documents\sitecore\LEARN\docker-examples\custom-images\src\DockerExamples.Website\items\Content\JssApp\Home\Carousel.yml
+ID: "bb05d7c0-bc59-46d1-b04b-424f16a324be"
+Parent: "9f1d607e-292e-4d1c-bccb-59ac724bddb8"
+Template: "af55c956-c1bf-47df-8b36-93858a332e84"
+Path: /sitecore/content/JssApp/Home/Carousel
+Signature: 8aN34b/SKOjgLaENiqtcvSeS6Vxytlej0fxLYyIKpxg=
+Modified: 638724393677026452
+---
+File: |
+  C:\Users\ana_dvali\Documents\sitecore\LEARN\docker-examples\custom-images\src\DockerExamples.Website\items\Content\JssApp\Home.yml
+ID: "9f1d607e-292e-4d1c-bccb-59ac724bddb8"
+Parent: "bcfab2be-8981-4135-9534-844741cf3c12"
+Template: "b36ba9fd-0dc0-49c8-bea2-e55d70e6af28"
+Path: /sitecore/content/JssApp/Home
+Signature: Csr7f6aEA6MQmoQQdfzDumM5d3Uz2s1NzkgFfmVMR8I=
+Modified: 638724393676883429
+---
+File: |
+  C:\Users\ana_dvali\Documents\sitecore\LEARN\docker-examples\custom-images\src\DockerExamples.Website\items\Content\JssApp\Home\Carousel\CarouselSlide1.yml
+ID: "69217492-ffe0-4293-b3ad-58f2d178a2b9"
+Parent: "bb05d7c0-bc59-46d1-b04b-424f16a324be"
+Template: "7ed3f211-4160-468d-9070-89229cb9fec1"
+Path: /sitecore/content/JssApp/Home/Carousel/CarouselSlide1
+Signature: 5ARvqqvMedQkwYj7zq8Q9BOKVXqlyxZAsCFi1zEGRXM=
+Modified: 638724393677036591
+---
+File: |
+  C:\Users\ana_dvali\Documents\sitecore\LEARN\docker-examples\custom-images\src\DockerExamples.Website\items\Content\JssApp\Home\Carousel\CarouselSlide2.yml
+ID: "cb6a91d9-6f9c-4292-9c8a-b21e2858f99d"
+Parent: "bb05d7c0-bc59-46d1-b04b-424f16a324be"
+Template: "7ed3f211-4160-468d-9070-89229cb9fec1"
+Path: /sitecore/content/JssApp/Home/Carousel/CarouselSlide2
+Signature: eJsj/T4W8WIOPTfvm2zG2nYPcr9NqII8WjTxJhIgH9o=
+Modified: 638724393677046568
